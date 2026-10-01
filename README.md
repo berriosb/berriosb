@@ -13,7 +13,7 @@ Construyo sistemas end-to-end en Python y TypeScript: agentes sobre LLM, servido
 - **Servidores MCP** en Python y TypeScript, publicados en PyPI y npm — integración de herramientas y fuentes de datos para agentes LLM.
 - **Agentes de IA** con definición de herramientas, manejo de contexto y memoria, y control de errores.
 - **Sistemas anti-alucinación**: trazabilidad de la fuente de cada respuesta, límites explícitos y auditoría.
-- **Plataformas BI y dashboards** con Next.js + PostgreSQL, incluida generación con IA multi-LLM.
+- **Dashboards y analítica de negocio**: tablas KTP/RFM, riesgo crediticio y logística, con deep-linking de cada vista y cálculo en el cliente.
 - **Análisis de datos** sobre datos abiertos del Estado chileno (ChileCompra, Banco Central, SERNAC).
 
 ---
@@ -86,15 +86,6 @@ Ridge Regression α=0.1 sobre 29 features (lags, rolling stats, calendario) y 4.
 - Un R² alto aquí refleja la persistencia de la serie, no una ventaja predictiva del modelo — el dashboard lo dice explícitamente
 
 `python` `scikit-learn` `time-series` `forecasting` `walk-forward-validation`
-
-### 🎨 [dash-bi](https://github.com/berriosb/dash-bi) — *WIP*
-**Plataforma BI self-hosted, multi-LLM, multi-tenant** (AGPL v3).
-
-Genera dashboards desde lenguaje natural (8 archetypes, 7 patrones atómicos), NLQA sobre tus datos, RLS en PostgreSQL, alertas multicanal y reportes PDF programados. Next.js 16 + React 19 + PostgreSQL 16 + Redis 7, con **714 tests** pasando.
-
-> ⚠️ **En desarrollo activo.** La arquitectura y el núcleo multi-tenant multi-LLM están publicados y probados; faltan cerrar módulos de uso final. Lo presento como WIP y no como producto terminado.
-
-`nextjs` `typescript` `bi` `ai` `postgres` `multi-tenant` `open-source`
 
 ### 🔌 [Opencode-Acp-Control](https://github.com/berriosb/Opencode-Acp-Control)
 **Skill reutilizable para controlar OpenCode por ACP/JSON-RPC 2.0.**
