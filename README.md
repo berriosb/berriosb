@@ -123,22 +123,6 @@ Detecta el stack (uv, pnpm, terraform), corre lint y tests, y escribe un marcado
 
 ---
 
-## 🎓 Formación
-
-- **Ingeniería Civil Industrial** — Universidad Mayor, titulado 2026.
-- **Ingeniería en Prevención de Riesgos** — IP Santo Tomás, titulado 2016.
-- Certificaciones: IBM Data Science (Coursera), Machine Learning (DeepLearning.AI), Python (UC), ISO 9001/14001/45001.
-
----
-
-## 🏢 Experiencia
-
-- **HM Rental** — Analista de Automatización y Datos (Mar 2024 – Abr 2026, 2a1m). Automatización de procesos de arriendo, leasing y logística de flota; diseño de KPIs y tableros de gestión; sistema de gestión de reclamos full-stack en producción con usuarios activos; reporting mensual a gerencia.
-- **Ripley** — Gestión de Canales Digitales (Mar 2019 – Abr 2021, 2a1m). Canales corporativos y análisis operativo.
-- **Jaquin & Boaz** — Jefe de Departamento de Prevención de Riesgos (Dic 2021 – Ago 2023, 1a8m). Coordinación de equipo de 6 en obras viales e hidráulicas; licitaciones con Esval y Aguas Andinas.
-
----
-
 ## 📫 Contacto
 
 Abierto a roles de **AI Developer / Applied AI Engineer**, Data y Automatización en Chile (presencial Valparaíso/Santiago, híbrido o remoto).
