@@ -94,12 +94,14 @@ Resuelve el problema de pérdida del transporte stdio cuando un runtime cierra s
 
 `python` `acp` `json-rpc` `mcp` `ai-agents`
 
-### 🛡️ [pre-push-qa](https://github.com/berriosb/pre-push-qa)
-**Compuerta de calidad pre-push agnóstica al agente.**
+### 🛡️ [agent-fleet](https://github.com/berriosb/agent-fleet)
+**Contrato de trabajo para agentes de IA: convenciones, QA pre-push, alineación y estructura de commits.**
 
-Detecta el stack (uv, pnpm, terraform), corre lint y tests, y escribe un marcador antes de cada `git push`. Sin secrets ni hooks invasivos. Instalable con `npx skills add berriosb/pre-push-qa -g`.
+Siete skills que alinean a todos los agentes de la máquina —Claude Code, Codex, OpenCode, agy, Gemini CLI, Copilot, pi— con las mismas reglas: `fleet-conventions` (verificación, idioma, datos, borrado), `fleet-interview` (resolver el árbol de decisiones antes de implementar), `work-unit-commits` (un commit = un comportamiento entregable), `pre-push-qa` (lint + types + tests local antes del push), `verification-before-completion` (evidencia antes de afirmaciones) y `domain-modeling` (glosario compartido).
 
-`devops` `ci-cd` `qa` `agent-skills`
+Todo en un comando, sin secrets ni hooks invasivos: `npx skills add berriosb/agent-fleet -g`.
+
+`ai-agents` `agent-skills` `devops` `ci-cd` `qa` `conventions`
 
 ---
 
